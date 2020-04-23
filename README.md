@@ -14,3 +14,9 @@ Predict sound decibels for NACA 0012 airfoils at various wind tunnel speeds and 
 Link: https://archive.ics.uci.edu/ml/datasets/Automobile
 
 Predict car mpg or price, using various factors
+
+## Temperature
+
+Link: https://archive.ics.uci.edu/ml/datasets/Bias+correction+of+numerical+prediction+model+temperature+forecast
+
+Predict tomorrow's temperature in Seoul South Korea using various factors
