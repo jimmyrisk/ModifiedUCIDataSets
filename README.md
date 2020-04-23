@@ -38,3 +38,9 @@ Predict various movie statistics for movies posted on youtube, such as ratings, 
 Link: https://archive.ics.uci.edu/ml/datasets/Energy+efficiency
 
 Predict heating and cooling loads (energy efficiency) for various building parameters.
+
+## Facebook Metrics (Cosmetic Page)
+
+Link: https://archive.ics.uci.edu/ml/datasets/Facebook+metrics
+
+Predict various facebook metrics using other values, for a specific cosmetic brand page
