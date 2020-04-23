@@ -20,3 +20,9 @@ Predict car mpg or price, using various factors
 Link: https://archive.ics.uci.edu/ml/datasets/Bias+correction+of+numerical+prediction+model+temperature+forecast
 
 Predict tomorrow's temperature in Seoul South Korea using various factors
+
+## Concrete
+
+Link: https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength
+
+Predict concrete compressive strength using various factors
