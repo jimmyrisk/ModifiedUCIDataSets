@@ -32,3 +32,9 @@ Predict concrete compressive strength using various factors
 Link: https://archive.ics.uci.edu/ml/datasets/CSM+%28Conventional+and+Social+Media+Movies%29+Dataset+2014+and+2015#
 
 Predict various movie statistics for movies posted on youtube, such as ratings, gross income, views, likes, dislikes, comments
+
+## Energy Efficiency
+
+Link: https://archive.ics.uci.edu/ml/datasets/Energy+efficiency
+
+Predict heating and cooling loads (energy efficiency) for various building parameters.
