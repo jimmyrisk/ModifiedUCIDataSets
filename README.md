@@ -56,3 +56,9 @@ See how long it takes youtube videos to transcode (taking compressed data and ma
 Link: https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set
 
 Predict house prices in Taiwan based on various features
+
+## Starcraft 2
+
+Link: https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset
+
+Predict various features for Starcraft 2 matches based on player and match statistics
