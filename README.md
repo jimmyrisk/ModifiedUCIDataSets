@@ -68,3 +68,9 @@ Predict various features for Starcraft 2 matches based on player and match stati
 Link: https://archive.ics.uci.edu/ml/datasets/Student+Performance
 
 Predict student grades based on various features
+
+## Yacht Hydrodynamics
+
+Link: https://archive.ics.uci.edu/ml/datasets/Yacht+Hydrodynamics
+
+Predict yacht water resistance based on various features
