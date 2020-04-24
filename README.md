@@ -56,3 +56,9 @@ See how long it takes youtube videos to transcode (taking compressed data and ma
 Link: https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set
 
 Predict house prices in Taiwan based on various features
+
+## GPU Performance
+
+Link: https://archive.ics.uci.edu/ml/datasets/SGEMM+GPU+kernel+performance
+
+Predict GPU performance based on various GPU factors
