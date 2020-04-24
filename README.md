@@ -50,3 +50,9 @@ Predict various facebook metrics using other values, for a specific cosmetic bra
 Link: https://archive.ics.uci.edu/ml/datasets/Online+Video+Characteristics+and+Transcoding+Time+Dataset
 
 See how long it takes youtube videos to transcode (taking compressed data and making it usable) for various metrics such as video length, resolution, etc.
+
+## Real Estate Valuation
+
+Link: https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set
+
+Predict house prices in Taiwan based on various features
