@@ -62,3 +62,9 @@ Predict house prices in Taiwan based on various features
 Link: https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset
 
 Predict various features for Starcraft 2 matches based on player and match statistics
+
+## Student Performance
+
+Link: https://archive.ics.uci.edu/ml/datasets/Student+Performance
+
+Predict student grades based on various features
