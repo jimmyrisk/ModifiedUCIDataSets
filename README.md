@@ -44,3 +44,9 @@ Predict heating and cooling loads (energy efficiency) for various building param
 Link: https://archive.ics.uci.edu/ml/datasets/Facebook+metrics
 
 Predict various facebook metrics using other values, for a specific cosmetic brand page
+
+## Video Transcoding Times
+
+Link: https://archive.ics.uci.edu/ml/datasets/Online+Video+Characteristics+and+Transcoding+Time+Dataset
+
+See how long it takes youtube videos to transcode (taking compressed data and making it usable) for various metrics such as video length, resolution, etc.
