@@ -5,6 +5,7 @@ Link: https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset
 ## Modifications
 
 * Removed game id
+* Removed NA variables (4/28/20)
 
 ## Variables
 
